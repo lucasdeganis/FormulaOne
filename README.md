@@ -12,12 +12,12 @@ Usar Docker para usar la una base de datos SQL Server
 
 * Installar imagen
 ```bash
-		sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
+	sudo docker pull mcr.microsoft.com/mssql/server:2022-latest
 ```
 
 * Generar instancia de container
 ```bash
-		sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=*******" -p 1433:1433 --name SqlServerDocker --hostname localhost -d mcr.microsoft.com/mssql/server:2022-latest
+	sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=*******" -p 1433:1433 --name SqlServerDocker --hostname localhost -d mcr.microsoft.com/mssql/server:2022-latest
 ```
   
 ## Pasos a seguir
