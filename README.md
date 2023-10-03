@@ -1,5 +1,5 @@
 # FormulaOne
-En este proyecto se   
+En este proyecto se encuentra desarrollado con .NET 7
 
 ## Requisitos
 * Base de datos
@@ -29,5 +29,5 @@ sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=*******" -p 1433:1433 -
   "FormulaOneDBConnection": "server=localhost; database=FormulaOne; User Id=sa; Password=**********; trustServerCertificate=true;"
 }
 ```
-* Ejecutar el bat "InitDataBase.bat" que se encuentra root. Este bat impacta la migracion.
+* Ejecutar el bat "InitDataBase.bat" que se encuentra root. Este bat impacta la migracion de la base de datos.
 * Correr la aplicacion.
