@@ -1,0 +1,15 @@
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\bin\Debug\net7.0\FormulaOne.Presistence.deps.json
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\bin\Debug\net7.0\FormulaOne.Presistence.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\bin\Debug\net7.0\FormulaOne.Presistence.pdb
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\bin\Debug\net7.0\FormulaOne.Domain.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\bin\Debug\net7.0\FormulaOne.Domain.pdb
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.csproj.AssemblyReference.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.AssemblyInfoInputs.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.AssemblyInfo.cs
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.csproj.CoreCompileInputs.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.csproj.CopyComplete
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\refint\FormulaOne.Presistence.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\FormulaOne.Presistence.pdb
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Presistence\obj\Debug\net7.0\ref\FormulaOne.Presistence.dll

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FormulaOne.Core\FormulaOne.Core.csproj" />
+    <ProjectReference Include="..\FormulaOne.Domain\FormulaOne.Domain.csproj" />
+    <ProjectReference Include="..\FormulaOne.Presistence\FormulaOne.Presistence.csproj" />
+  </ItemGroup>
+
+</Project>

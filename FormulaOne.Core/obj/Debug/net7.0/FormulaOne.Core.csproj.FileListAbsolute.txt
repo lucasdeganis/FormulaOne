@@ -1,0 +1,12 @@
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\bin\Debug\net7.0\FormulaOne.Core.deps.json
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\bin\Debug\net7.0\FormulaOne.Core.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\bin\Debug\net7.0\FormulaOne.Core.pdb
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.csproj.AssemblyReference.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.AssemblyInfoInputs.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.AssemblyInfo.cs
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.csproj.CoreCompileInputs.cache
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\refint\FormulaOne.Core.dll
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\FormulaOne.Core.pdb
+C:\Users\lukss\OneDrive\Escritorio\Return 0\FormulaOne\FormulaOne.Core\obj\Debug\net7.0\ref\FormulaOne.Core.dll

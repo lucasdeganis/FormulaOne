@@ -1,0 +1,383 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Api\\FormulaOne.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Api\\FormulaOne.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Api\\FormulaOne.Api.csproj",
+        "projectName": "FormulaOne.Api",
+        "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Api\\FormulaOne.Api.csproj",
+        "packagesPath": "C:\\Users\\lukss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\FormulaOne.Application.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\FormulaOne.Application.csproj"
+              },
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj"
+              },
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj"
+              },
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\FormulaOne.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\FormulaOne.Application.csproj",
+        "projectName": "FormulaOne.Application",
+        "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\FormulaOne.Application.csproj",
+        "packagesPath": "C:\\Users\\lukss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj"
+              },
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj"
+              },
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj",
+        "projectName": "FormulaOne.Core",
+        "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj",
+        "packagesPath": "C:\\Users\\lukss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj",
+        "projectName": "FormulaOne.Domain",
+        "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj",
+        "packagesPath": "C:\\Users\\lukss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj",
+        "projectName": "FormulaOne.Presistence",
+        "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\FormulaOne.Presistence.csproj",
+        "packagesPath": "C:\\Users\\lukss\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Presistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj": {
+                "projectPath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Domain\\FormulaOne.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md5lRlRHlrdWw0WGKK9Ev2PExbgvLGKfvF/b74vml0XHidazUG1FxwWrRfmT0UMUYTSzdIuU7vv6mZR2a0+kXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukss\\OneDrive\\Escritorio\\Git\\FormulaOne\\FormulaOne.Core\\FormulaOne.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukss\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\lukss\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
