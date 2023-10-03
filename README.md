@@ -2,13 +2,14 @@
 En este proyecto se encuentra desarrollado con .NET 7
 
 ## Requisitos
-* Base de datos
-* Installar Entity Framework Cli
+* Visual Studio con Framework .Net 7 instalado.
+* Base de datos.
+* Installar Entity Framework Cli.
 ```bash
 dotnet tool install --global dotnet-ef
 ```
 ### Recomendacion
-Usar Docker para usar la una base de datos SQL Server
+Usar Docker para usar la una base de datos SQL Server.
 
 * Installar imagen
 ```bash
@@ -21,8 +22,6 @@ sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=*******" -p 1433:1433 -
 ```
   
 ## Pasos a seguir
-* Tener una instancia de base de datos SQL Server.
-* Instalar Entity Framewor Cli.
 * Modificar el conexion string del archivo "appsettings.json" en el proyecto FormulaOne.Api
 ```bash
 "ConnectionStrings": {
@@ -30,4 +29,4 @@ sudo docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=*******" -p 1433:1433 -
 }
 ```
 * Ejecutar el bat "InitDataBase.bat" que se encuentra root. Este bat impacta la migracion de la base de datos.
-* Correr la aplicacion.
+* Correr la aplicacion (http://localhost:5014/swagger/index.html).
